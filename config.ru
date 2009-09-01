@@ -1,0 +1,3 @@
+require 'bang'
+
+run Bang
